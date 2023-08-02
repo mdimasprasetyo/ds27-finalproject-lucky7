@@ -18,7 +18,7 @@ attribute_info = """
                  - Blood Glucose : 0-500
                  - Hypertension : Yes, No
                  - Heart Disease : Yes, No
-                 - Smoking History : 
+                 - Smoking History : current, non-smoker, past_smoker
                  """
 
 def get_value(val,my_dict):
